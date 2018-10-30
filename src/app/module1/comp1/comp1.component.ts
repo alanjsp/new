@@ -20,7 +20,7 @@ console.log(this.y)
     
 console.log(this.y)
 console.log("cdssssssssssssssssssssssssssssssa")
-//this is f1
+//this is f2
   }
 
 }
