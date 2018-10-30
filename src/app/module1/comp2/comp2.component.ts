@@ -12,6 +12,8 @@ export class Comp2Component implements OnInit {
   ngOnInit() {
     console.log("dsf")
     //this is f1
+    //this is f1
+
   }
 
 }
