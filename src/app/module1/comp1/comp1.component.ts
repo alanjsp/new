@@ -21,6 +21,8 @@ console.log(this.y)
 console.log(this.y)
 console.log("cdssssssssssssssssssssssssssssssa")
 //this is f2
+//this is f2
+
   }
 
 }
