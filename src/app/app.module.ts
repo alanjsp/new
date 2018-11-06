@@ -10,7 +10,8 @@ import { AppRoutingModule } from './app-routing.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    // DataTablesModule
   ],
   providers: [],
   bootstrap: [AppComponent]
